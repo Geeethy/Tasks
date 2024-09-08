@@ -1,1 +1,1 @@
-# Tasks
+# Image Generation Tasks
